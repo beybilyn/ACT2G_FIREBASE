@@ -1,1 +1,1 @@
-# ACT2G_FIREBASE
+# act2g-react-app
